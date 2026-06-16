@@ -9,8 +9,8 @@ A Power BI dashboard built on the Snowflake `SNOWFLAKE_SAMPLE_DATA.TPCH_SF1` dat
 
 ## What's in this repo
 - `report.pbix` — link below 
-- `tpch_views.sql` — all SQL views used to build the data model in Snowflake
-- `documentation.md` — full write-up: data model design, SQL, DAX measures, and page-by-page breakdown of the report
+-  [`tpch_views.sql`](tpch_views.sql) — all SQL views used to build the data model in Snowflake
+-  [`documentation.md`](documentation.md) — full write-up: data model design, SQL, DAX measures, and page-by-page breakdown of the report
 
 ## Report
 📊 [Download the .pbix file](https://drive.google.com/file/d/16Q2sKh5hY_TrKK0w0HLcvpBBQGTWAOvh/view?usp=drive_link) 
