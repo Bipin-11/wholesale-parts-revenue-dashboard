@@ -8,12 +8,12 @@ A Power BI dashboard built on the Snowflake `SNOWFLAKE_SAMPLE_DATA.TPCH_SF1` dat
 ![Product & Supplier Performance](page2.png)
 
 ## What's in this repo
-- `report.pbix` — link below (file exceeds GitHub's 25MB upload limit)
+- `report.pbix` — link below 
 - `tpch_views.sql` — all SQL views used to build the data model in Snowflake
 - `documentation.md` — full write-up: data model design, SQL, DAX measures, and page-by-page breakdown of the report
 
 ## Report
-📊 [Download the .pbix file](PASTE_YOUR_GOOGLE_DRIVE_LINK) (hosted externally — GitHub's web uploader caps at 25MB)
+📊 [Download the .pbix file](https://drive.google.com/file/d/16Q2sKh5hY_TrKK0w0HLcvpBBQGTWAOvh/view?usp=drive_link) 
 
 ## Quick summary
 - Built a clean star schema in Snowflake (1 fact table, 4 dimension tables) rather than importing all 8 raw tables and relying on auto-detected relationships
